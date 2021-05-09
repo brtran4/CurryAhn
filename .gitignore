@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 config.py
+mysql-apt-config_0.8.11-1_all.deb
+sql/
